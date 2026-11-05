@@ -1,5 +1,5 @@
 $ErrorActionPreference = "Stop"
-$ImageUrl = "https://raw.githubusercontent.com/oeraldosilva/pg/main/wallpaper.jpg"
+$ImageUrl = "https://raw.githubusercontent.com/ICMP-Consultoria-em-TI/assets01/main/wallpaper.jpg"
 $Dir = "C:\ProgramData\ICMP"
 $Img = "$Dir\wallpaper_pg.jpg"
 $Log = "$Dir\wallpaper_log.txt"
